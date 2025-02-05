@@ -1,1 +1,1 @@
-# AI_ML
+# This folder contails data science projects 

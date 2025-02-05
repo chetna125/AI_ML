@@ -1,1 +1,1 @@
-# This folder contails data science projects 
+Data Science Assignments
